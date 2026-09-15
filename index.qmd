@@ -441,7 +441,7 @@ alcohol, etc.)
 
 <center>
 
-<img src="/pic/S3-tax.png" width = "100%">
+<img src="./pic/S3-Tax.png" width = "100%">
 
 </center>
 
