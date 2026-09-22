@@ -188,9 +188,9 @@ supply1+
 
 :::{.incremental}
 
-- Price of goods (law of supply)
-
 - input price (labor, rent, and so on)
+
+- Number of firms supplying the commodity
 
 - Technology
 
