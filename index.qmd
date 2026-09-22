@@ -353,7 +353,7 @@ Welfare and efficiency perspective
 
 <center> 
 
-<img src="/pic/S3-F2.png" width = "100%">
+<img src="./pic/S3-F2.png" width = "100%">
 
 </center>
 :::
